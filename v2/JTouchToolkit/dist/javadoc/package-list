@@ -1,0 +1,9 @@
+com.bcu.userlab.haptics
+com.bcu.userlab.haptics.HDAL
+com.uce.userlab.haptics
+com.uce.userlab.haptics.HD
+com.uce.userlab.haptics.HL
+com.uce.userlab.haptics.event
+com.uce.userlab.haptics.motion
+com.uce.userlab.haptics.motion.event
+com.uce.userlab.haptics.motion.interfaces
